@@ -1,0 +1,5 @@
+@media not (max-width: 816px) {
+  body {
+    display: none;
+  }
+}
